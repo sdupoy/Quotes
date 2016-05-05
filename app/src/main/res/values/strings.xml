@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="quote_1">Be the change that you want to see in the world. </string>
+    <string name="quote_2">Surfing is like the mafia, once you’re in you’re in. There’s no getting out. </string>
+    <string name="quote_3">Love the life you live, live the life you love. </string>
+    <string name="quote_4">Success is going from failure to failure without a loss of enthusiasm. </string>
+    <string name="quote_5">Everything will be okay at the end. If it is not okay, it is not the end. </string>
+    <string name="quote_6">I can accept failure, everyone fails at something. But I can’t accept not trying. </string>
+    <string name="quote_7">Life is a beautiful melody, only the lyrics are messed up. </string>
+    <string name="quote_8">If people had more sense of humor, we would live in a very different world. </string>
+    <string name="quote_9">Everything should be made as simple as possible. Not simpler. </string>
+    <string name="quote_10">Have more than you show, speak less than you know. </string>
+    <string name="title_activity_splash">Quotes app</string>
+</resources>
